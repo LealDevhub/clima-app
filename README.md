@@ -10,6 +10,9 @@ O projeto foi criado por:
 - [x] JavaScript
 - [x] Weather API
 
+## API WEATHER APP
+Confira a documentação: [Open Weathe API Documentation](https://openweathermap.org/api)
+
 ## Instale em sua máquina local
 ```
 git clone https://github.com/LealDevhub/clima-app.git
